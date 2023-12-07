@@ -30,8 +30,18 @@
 
 ## Ссылки
 
+[An Internal Link](/guides/content/editing-an-existing-page)
+
 ## Работа с таблицами
 
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
 ## Цитаты
+
+> Somewhere, something incredible is waiting to be known
+
 
 ## Заключение

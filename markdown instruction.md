@@ -34,14 +34,11 @@
 
 ## Работа с таблицами
 
-<<<<<<< HEAD
 
-=======
 | Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more +     |
->>>>>>> table
 
 ## Цитаты
 

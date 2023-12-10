@@ -34,11 +34,18 @@
 
 ## Работа с таблицами
 
+<<<<<<< HEAD
 
+=======
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more +     |
+>>>>>>> table
 
 ## Цитаты
 
-> Somewhere, something incredible is waiting to be known
+
 
 
 ## Заключение
